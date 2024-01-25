@@ -36,9 +36,6 @@ def spider_urls(url, keyword):
 
 
 
-# https://www.yahoo.com
-
-
 url = input("Eneter the URL you want to scrap. ")
 keyword = input("Enter the keyword to search for in the URL provided. ")
 spider_urls(url, keyword)
